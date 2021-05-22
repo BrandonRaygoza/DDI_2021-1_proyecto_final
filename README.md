@@ -7,4 +7,3 @@ Es necesario descargar dos paquetes adicionales de graficos de la ASSET Store de
 
 -> Free PBR Lamps: https://assetstore.unity.com/packages/3d/props/interior/free-pbr-lamps-70181
 
-Esto es necesario pues al momento de agregar los archivos, git daba un warning (que mas bien era un error, pues no se podia avanzar). Estas carpetas son simplemente graficos, por lo que no deberian influir en el desempeño del proyecto.
