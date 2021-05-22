@@ -7,4 +7,4 @@ Es necesario descargar dos paquetes adicionales de graficos de la ASSET Store de
 
 -> Free PBR Lamps: https://assetstore.unity.com/packages/3d/props/interior/free-pbr-lamps-70181
 
-Si usted desea copiar este proyecto, le sugiero que investigue como lidiar con: warning: LF will be replaced by CLRF in ansible.cfg. Para que pueda agregar esas carpetas con git.
+Si usted desea copiar este proyecto, le sugiero que investigue como lidiar con: "git warning: LF will be replaced by CLRF in ansible.cfg". Para que pueda agregar esas carpetas con git.
